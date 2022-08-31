@@ -11,6 +11,11 @@ Machine + Causality
 [On Pearl’s hierarchy and the foundations of causal inference](https://causalai.net/r60.pdf)
 Introdution of What is causal inference. 
 
+2022 \
+[Causal Machine Learning
+for Healthcare and Precision Medicine](https://arxiv.org/pdf/2205.11402.pdf) \
+A survey in medical area
+
 ## Causal on Model
 
 2019 \
