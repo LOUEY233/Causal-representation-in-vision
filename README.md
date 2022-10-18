@@ -15,6 +15,7 @@
 
 ## Theoretical Works
 - Invariant Risk Minimization
+
 [Invariant Risk Minimization](https://arxiv.org/abs/1907.02893)
 
 [The risks of invariant risk minimization](https://arxiv.org/abs/2010.05761)
@@ -33,7 +34,8 @@
 
 
 ## Practical Works
-- Feature Understanding
+- Feature Understanding 
+
 [CausalVAE: Disentangled representation learning via neural structural causal models](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_CausalVAE_Disentangled_Representation_Learning_via_Neural_Structural_Causal_Models_CVPR_2021_paper.pdf)
 
 [Disentangled generative causal representation learning](https://arxiv.org/abs/2010.02637)
