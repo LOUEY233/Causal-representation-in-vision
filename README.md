@@ -49,10 +49,15 @@
 [Align R-CNN: A pairwise head network for visual relationship detection](https://ieeexplore.ieee.org/document/9364727)
 
 [Causal attention for unbiased visual recognition](https://arxiv.org/abs/2108.08782)
+
 [Counterfactual zero-shot and open-set visual recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Counterfactual_Zero-Shot_and_Open-Set_Visual_Recognition_CVPR_2021_paper.pdf)
+
 [Distilling causal effect of data in class-incremental learning](https://arxiv.org/abs/2103.01737)
+
 [Long-tailed classification by keeping the good and removing the bad momentum causal effect](https://arxiv.org/abs/2009.12991)
+
 [Interventional few-shot learning](https://proceedings.neurips.cc/paper/2020/file/1cc8a8ea51cd0adddf5dab504a285915-Paper.pdf)
+
 [Causal intervention for weakly-supervised semantic segmentation](https://arxiv.org/abs/2009.12547)
 
 - Transfer Learning
